@@ -22,3 +22,5 @@ const { username, caption } = post;
 //Print username + caption
 console.log(`Username: ${username}`);
 console.log(`Caption: ${caption}`);
+
+//ObjectQ4.js

@@ -23,3 +23,6 @@ while (count >= 1) {
   console.log(count);
   count--;
 }
+
+
+//LoopsQ5.js

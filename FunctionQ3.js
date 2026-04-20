@@ -7,5 +7,9 @@ function greetingBot(name, isMorning) {
 }
 
 // Function output 
-console.log(greetingBot("Alice", true));   
-//console.log(greetingBot("Bob", false));    
+console.log(greetingBot("Thapelo", true));   
+//console.log(greetingBot("Tumelo", false));    
+
+
+
+//FuntionQ3.js

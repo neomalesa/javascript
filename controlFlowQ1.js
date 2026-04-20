@@ -26,3 +26,5 @@ console.log(`Grade: ${grade}`);
 // Ternary operator for pass/fail
 let passStatus = score >= 60 ? "Passed" : "Failed";
 console.log(`Status: ${passStatus}`);
+
+//controlFlowQ1.js
